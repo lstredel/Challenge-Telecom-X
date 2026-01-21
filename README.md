@@ -1,7 +1,7 @@
 # 📊 Análisis de Evasión de Clientes (Churn Analysis)
 
 ## 📑 Índice
-1. [📖 descripción](#1-descripción)
+1. [📖 Descripción](#1-descripción)
 2. [🎯 Objetivo](#2-objetivo)
 3. [📊 Principales Hallazgos](#3-principales-hallazgos)
 4. [🛠️ Tratamiento de Datos](#4-tratamiento-de-datos)
