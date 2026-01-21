@@ -74,16 +74,68 @@ Vulnerabilidad del Contrato Mensual: La gran mayoría de las bajas ocurren en el
    Métrica de Tenure: Se segmentó la antigüedad de los clientes para identificar el "Punto de Quiebre de los 10 Meses", permitiendo analizar la deserción no como un evento aislado, sino como un ciclo de vida con etapas de riesgo definidas.
    
 ## Visualizaciones Clave
-<img width="638" height="590" alt="image" src="https://github.com/user-attachments/assets/7462b559-2f8c-4884-b6ca-db57d0a9ab37" />
+<img width="990" height="848" alt="image" src="https://github.com/user-attachments/assets/0aa4d163-294a-43b6-9d6e-6cc402a1c5b1" />
+<img width="1783" height="684" alt="image" src="https://github.com/user-attachments/assets/5a2ef5cd-4c6b-446c-869b-811089795ad9" />
+<img width="1784" height="794" alt="image" src="https://github.com/user-attachments/assets/4f403940-6bf6-48b5-a06e-73926047b2f3" />
+<img width="1384" height="684" alt="image" src="https://github.com/user-attachments/assets/672c8c88-e550-4492-b4e3-ccf24340259f" />
+<img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/088e03b3-d48d-422a-ab1f-692c04a796c5" />
+<img width="982" height="899" alt="image" src="https://github.com/user-attachments/assets/f0df1f8c-b13e-4d1e-a697-55564d5a2140" />
+<img width="1384" height="684" alt="image" src="https://github.com/user-attachments/assets/157664ca-b969-47d5-8c91-cd7746ce06f0" />
+<img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/95640f6c-46a3-4831-a50a-1785b902243b" />
+
+
+
+
+
+
+
+
 
 
 
 
 ## Recomendaciones Estratégicas
-Propuestas basadas en los datos obtenidos...
+
+1. Programa de Fidelización
+
+Acción: Implementar una campaña de contacto proactivo y beneficios exclusivos en el mes 9 de antigüedad.
+
+Objetivo: Romper la barrera de deserción de los 10 meses y asegurar la transición del cliente hacia el segmento de lealtad a largo plazo (donde la probabilidad de fuga cae un 40%).
+
+2. Blindaje del Segmento de Alto Valor (Streaming)
+
+Acción: Crear paquetes de retención específicos para el perfil "Ambos Streaming", quienes representan el 38% de la pérdida anual.
+
+Objetivo: Ofrecer descuentos por permanencia o "upgrades" de servicio a este grupo, ya que recuperar a un solo cliente de este segmento tiene un impacto financiero 4 veces mayor que en los segmentos básicos.
+
+3. Incentivos de Migración Contractual
+
+Acción: Diseñar una estrategia de conversión con promociones de descuentos, para mover a los clientes con contratos "Mes a Mes" hacia contratos de 1 o 2 años.
+
+Objetivo: Reducir la volatilidad. Los datos demuestran que el compromiso contractual es el predictor más fuerte de permanencia, independientemente del costo del servicio.
+
+4. Rebalanceo de Precios en el Umbral Crítico
+
+Acción: Revisar la oferta comercial para el rango de facturación de $70 - $90 mensuales.
+
+Objetivo: Introducir servicios de valor agregado (sin costo adicional para la empresa) que aumenten la percepción de valor en este "punto de quiebre" donde el cliente se vuelve más sensible al precio
 
 ## Tecnologías Utilizadas
-* Python, Pandas, Seaborn.
+
+Python 3.x: Lenguaje base para el procesamiento de lógica y manipulación de datos.
+
+Pandas: Biblioteca principal utilizada para la limpieza, transformación y creación de las métricas financieras (como la proyección anual de pérdidas).
+
+NumPy: Utilizada para operaciones matemáticas eficientes y manejo de vectores en la segmentación de perfiles.
+
+Matplotlib: Empleada para la creación de la arquitectura base de los gráficos y control detallado de los ejes de visualización.
+
+Seaborn: Biblioteca de visualización estadística utilizada para generar los diagramas de caja (Boxplots) y los mapas de calor (Heatmaps) que revelaron la sensibilidad al precio.
+
+Google Colab: Entornos de desarrollo interactivos que permitieron la experimentación rápida y la documentación del código paso a paso.
 
 ## Autor
-[Tu Nombre](Tu-Link)
+Lisber Stredel
+Contador Auditor y Proximo Data Science
+https://www.linkedin.com/in/lisber-stredel-nu%C3%B1ez-67975715/
+
